@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alonzo's Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://linkedin.com/in/alonzo-murrieta/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

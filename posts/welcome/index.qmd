@@ -1,0 +1,9 @@
+---
+title: "Welcome to my Blog"
+author: "Alonzo"
+date: "2023-03-20"
+categories: [news]
+---
+
+Welcome to my blog! 
+In this website I'll be sharing projects I've worked on during my time in undergrad.
